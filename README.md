@@ -1,15 +1,55 @@
+### Olá! Me chamo Cristian! 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/And_eoq/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristian-andriel-924190233) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@CristianAndriel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/CristianAnd_) 
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CristianAnd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CristianAnd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianAnd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
+```javascript
+const express = require('express')
+const app = express()
 
-[![](https://visitcount.itsvg.in/api?id=CristianAnd&icon=2&color=3)](https://visitcount.itsvg.in)
+const webDeveloper = {name:"Cristian", stack:"Full-Stack-Developer"}
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+app.get('/', (req, res) =>{
+  return res.send(webDeveloper)
+}),
+
+app.listen(3000, () =>{
+  console.log("Initing code...")
+})
+
+```
+
+## **Linguagens e Ferramentas:**  
+
+<div style="display: inline_block"><br>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/express-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mongodb-original.svg" width="50" height="40" align="center"/>
+
+</div><br>
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
+</a>
+
+## **Vamos nos Conectar:**
+
+<p align="left">
+  <a target="_blank" href="https://www.linkedin.com/in/alexandre-santos-3036601b1/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <a target="_blank" href="https://www.instagram.com/alexandresaintss/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+   <a target="_blank" href="mailto:alexandresaintss@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+</p>
+<br>
+
+![Snake animation](https://github.com/alexandresaints/alexandresaints/blob/output/github-contribution-grid-snake.svg)
