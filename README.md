@@ -37,7 +37,7 @@ app.listen(3000, () =>{
 ## **Vamos nos Conectar:**
 
 <p align="left">
-  <a target="_blank" href="[https://www.linkedin.com/in/alexandre-santos-3036601b1/](https://www.linkedin.com/in/cristian-andriel-924190233/)" alt="Linkedin">
+  <a target="_blank" href="https://www.linkedin.com/in/alexandre-santos-3036601b1/](https://www.linkedin.com/in/cristian-andriel-924190233/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   <a target="_blank" href="https://www.instagram.com/and_eoq" alt="Instagram">
