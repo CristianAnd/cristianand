@@ -24,13 +24,9 @@ app.listen(3000, () =>{
 
 <div style="display: inline_block"><br>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/express-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mongodb-original.svg" width="50" height="40" align="center"/>
 
 </div><br>
 
@@ -41,13 +37,13 @@ app.listen(3000, () =>{
 ## **Vamos nos Conectar:**
 
 <p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/alexandre-santos-3036601b1/" alt="Linkedin">
+  <a target="_blank" href="[https://www.linkedin.com/in/alexandre-santos-3036601b1/](https://www.linkedin.com/in/cristian-andriel-924190233/)" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <a target="_blank" href="https://www.instagram.com/alexandresaintss/" alt="Instagram">
+  <a target="_blank" href="https://www.instagram.com/and_eoq" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-   <a target="_blank" href="mailto:alexandresaintss@gmail.com" alt="Gmail">
+   <a target="_blank" href="mailto:cristianandrielsilva@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
 <br>
