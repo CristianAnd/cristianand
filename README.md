@@ -10,7 +10,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["HTML, CSS3"];
-  bibliotecas = ["Em desenvolvimento"];
+  bibliotecas = ["Microsoft Azure"];
   frameworks = ["Em desenvolvimento"];
 }
 ```
