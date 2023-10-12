@@ -11,7 +11,7 @@ class SobreMim extends Desenvolvedor {
 class Skills extends Desenvolvedor {
   linguagens = ["HTML, CSS3"];
   bibliotecas = ["Microsoft Azure"];
-  frameworks = ["Em desenvolvimento"];
+  frameworks = ["Bootstrap"];
 }
 ```
 <p align-items = center;
