@@ -9,8 +9,8 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["HTML, CSS3"];
-  bibliotecas = ["Microsoft Azure"];
+  linguagens = ["HTML, CSS3, JavaScript"];
+  bibliotecas = ["Microsoft Azure, React"];
   frameworks = ["Bootstrap"];
 }
 ```
