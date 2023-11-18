@@ -18,3 +18,6 @@ class Skills extends Desenvolvedor {
 # Atualmente estou **estudando**: 🗺️
 - JavaScript
 - React
+
+# Formação Acadêmica: 📘
+- **Analise e Desenvolvimento de Sistemas** | Uniasselvi - 1 semestre
