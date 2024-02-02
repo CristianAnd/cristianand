@@ -1,23 +1,10 @@
-```js
-import Desenvolvedor from "Cristian Andriel";
+# Cristian Andriel
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/angelo-schuler-piletti-9045411a0/)
 
-class SobreMim extends Desenvolvedor {
-  nome = "Cristian";
-  area = "Frontend Developer";
-  trabalho = "Estudadante de Análise e desenvolvimento de sistemas";
-  local = "Porto Alegre | Rio Grande do Sul";
-}
+.NET developer focused on web3 integration such as smart contracts and DeFi solutions.
 
-class Skills extends Desenvolvedor {
-  linguagens = ["HTML, CSS3, JavaScript"];
-  bibliotecas = ["Microsoft Azure, React"];
-  frameworks = ["Bootstrap"];
-}
-```
-
-# Atualmente estou **estudando**: 🗺️
-- JavaScript
-- React
-
-# Formação Acadêmica: 📘
-- **Analise e Desenvolvimento de Sistemas** | Uniasselvi - 1 semestre
+### Contacts:<br>
+  :email: cristianandrielsilva@gmail.com <br>
+  :iphone: +55 51 993827340 <br>
+<br>
+Porto Alegre, Rio Grande do Sul;
