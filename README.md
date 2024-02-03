@@ -8,3 +8,20 @@
   :iphone: +55 51 993827340 <br>
 <br>
 Porto Alegre, Rio Grande do Sul;
+
+### ⚡ Technologies:
+
+These are some of the technologies and tools I use:
+
+- Frontend
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,jquery,react,next,tailwind,bootstrap)](https://skillicons.dev)
+
+- Backend
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=c,cs,cpp,dotnet,js)](https://skillicons.dev)
+
+
+- Tools
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,gitlab,figma)](https://skillicons.dev)
