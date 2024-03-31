@@ -15,11 +15,11 @@ These are some of the technologies and tools I use:
 
 - Frontend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,jquery,react,next,tailwind,bootstrap)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,react,bootstrap)](https://skillicons.dev)
 
 - Backend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=c,cs,cpp,dotnet,js)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=cs,js)](https://skillicons.dev)
 
 
 - Tools
