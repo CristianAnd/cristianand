@@ -1,23 +1,22 @@
-<h1> Cristian Andriel </h1>
-<h2>FullStack Developer</h2>
-<a href="https://www.linkedin.com/in/cristian-andriel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1 align="center">Opa, me chamo Cristian Silva</h1>
+<h3 align="center">Desenvolvedor Mobile | C# |.NET Maui</h3>
 
-### Contatos:<br>
-  :email: contato.cristianandriel@gmail.com <br>
-  :iphone: +55 (51) 99382-7340 <br>
-<br>
-<strong>Porto Alegre, Rio Grande do Sul;</strong>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https:// github-profile-trophy.vercel.app/?username=cristianand" alt="cristianand" /></a> </p>
 
-### ⚡ Tecnologias:
-- Frontend
+- 👨‍💻 Portfólio [Em breve...](Em breve...)
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,react,ts,bootstrap)](https://skillicons.dev)
+- 📫 Contato: **cristianandrielsilva@gmail.com**
 
-- Backend
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in /cristian-andriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /linked-in-alt.svg" alt="cristian-andriel" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19641986" alvo ="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg " alt="19641986" height="30" width="40" /></a>
+</p>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=cs,js)](https://skillicons.dev)
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/ ícones/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width= "40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https:// raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> < a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin " width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/ top-langs?username=cristianand&show_icons=true&locale=en&layout=compact" alt="cristianand" /></p>
 
-- Tools
+<p> <img align="center" src="https://github-readme-stats. vercel.app/api?username=cristianand&show_icons=true&locale=en" alt="cristianand" /></p>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,gitlab,figma,)](https://skillicons.dev)
