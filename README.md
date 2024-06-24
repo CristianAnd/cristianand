@@ -1,7 +1,7 @@
 ![Hi, (1)](https://github.com/CristianAnd/CristianAnd/assets/61318221/e6975556-a04c-4542-8595-12651da53c00)
-<p align="center">Eu desenvolvo soluções inovadoras. <br><br> No momento sou um desenvolvedor Freelancer, mas estou em busca da minha primeira oportunidade. Especializado em criar websites, landing pages, e-commerce sites, blogs, e muito mais. Com foco em <strong>HTML, CSS, JavaScript, e C#.&nbsp;
+<p align="left">Eu desenvolvo soluções inovadoras. <br><br> No momento sou um desenvolvedor Freelancer, mas estou em busca da minha primeira oportunidade. Especializado em criar websites, landing pages, e-commerce sites, blogs, e muito mais. Com foco em <strong>HTML, CSS, JavaScript, e C#.&nbsp;
 
-<div align="center" style="margin-bottom:100px">
+<div align="left" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=CristianAnd&theme=dracula&mode=weekly" />
 <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianAnd&show_icons=true&theme=dracula&layout=compact" />
 </div>
