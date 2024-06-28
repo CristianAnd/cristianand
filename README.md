@@ -1,26 +1,20 @@
 ![Hi, (1)](https://github.com/CristianAnd/CristianAnd/assets/61318221/e6975556-a04c-4542-8595-12651da53c00)
 <p align="left">Eu desenvolvo soluções inovadoras. <br><br> No momento sou um desenvolvedor Freelancer, mas estou em busca da minha primeira oportunidade. Especializado em criar websites, landing pages, e-commerce sites, blogs, e muito mais. Com foco em <strong>HTML, CSS, JavaScript, e C#.&nbsp;
 
-<div align="left" style="margin-bottom:100px">
-<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=CristianAnd&theme=dracula&mode=weekly" />
-<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianAnd&show_icons=true&theme=dracula&layout=compact" />
-</div>
+### Contato
+<a href="https://www.linkedin.com/in/cristian-andriel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 &nbsp;
 &nbsp;
 
 ## Minhas Skills
+[![Languages](https://skillicons.dev/icons?i=cs,css,html,java,javascript)](https://skillicons.dev)
 
-### Programação e Desenvolvimento:
+### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,bootstrap)](https://skillicons.dev)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-
-### Ferramentas de Design:
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+### Cloud
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp&perline=10)](https://skillicons.dev)
 
 ### Estações de Trabalho:
 
@@ -29,8 +23,13 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
+### Databases
+[![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+<a href="https://github.com/cristianand">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianand&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=151B22&card_width=400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianand&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=151B22&card_width=400"/>
+</a>
 
 ## Entre em contato:
 
