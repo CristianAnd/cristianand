@@ -1,13 +1,14 @@
-![Hi, (1)](https://github.com/CristianAnd/CristianAnd/assets/61318221/e6975556-a04c-4542-8595-12651da53c00)
-<p align="left">Eu desenvolvo soluções inovadoras. <br><br> No momento sou um desenvolvedor Freelancer, mas estou em busca da minha primeira oportunidade. Especializado em criar websites, landing pages, e-commerce sites, blogs, e muito mais. Com foco em <strong>HTML, CSS, JavaScript, e C#.&nbsp;
+![Hi, (1)](https://github.com/CristianAnd/CristianAnd/assets/61318221/e6975556-a04c-4542-8595-12651da53c00) 
 
-### Contato
-<a href="https://www.linkedin.com/in/cristian-andriel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+Sou um Engenheiro Desenvolvedor de Software que trabalha com C#, React e JavaScript. Sou apaixonado por desenvolver soluções que, junto com análise de dados, segurança cibernética e nuvem, transformam a vida das pessoas. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, com planos de fazer uma Pós-Graduação em Engenharia de Software.
+
+### Redes Sociais:
+<a href="https://www.linkedin.com/in/cristian-andriel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
 &nbsp;
 &nbsp;
 
-## Minhas Skills
+## Linguagens
 [![Languages](https://skillicons.dev/icons?i=cs,css,html,java,javascript)](https://skillicons.dev)
 
 ### Frameworks
