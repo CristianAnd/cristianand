@@ -2,9 +2,6 @@
 
 Sou um Engenheiro Desenvolvedor de Software que trabalha com C#, React e JavaScript. Sou apaixonado por desenvolver soluções que, junto com análise de dados, segurança cibernética e nuvem, transformam a vida das pessoas. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, com planos de fazer uma Pós-Graduação em Engenharia de Software.
 
-### Redes Sociais:
-<a href="https://www.linkedin.com/in/cristian-andriel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
-
 &nbsp;
 &nbsp;
 
